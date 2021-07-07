@@ -1,3 +1,5 @@
+#My copy#
+
 # Contributing to R - Participant Instructions useR! 2021 Tutorial
 Gabriel Becker and Martin Maechler
 
